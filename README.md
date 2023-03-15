@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
 <h3 align="center">Soy un Frontend apasionado y responsable</h3>
 
-- 🔭 Actualmente estoy trabajando en Workana como desarrollador Frontend - **Freelancer**
+- 🔭 En la actualidad me encuentro trabajando en la plataforma Workana como desarrollador Frontend independiente - **Freelancer**
 
 - 🌱 Actualmente estoy aprendiendo: **React, Node y Angular**
 
