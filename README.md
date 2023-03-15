@@ -1,5 +1,5 @@
 <p>
-<img ![img1](https://user-images.githubusercontent.com/123973821/225417263-2e428048-fdd6-4c1a-960b-bf5a07d11c36.jpg)/>
+  ![img1](https://user-images.githubusercontent.com/123973821/225417263-2e428048-fdd6-4c1a-960b-bf5a07d11c36.jpg)
 </p>
 
 <h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
