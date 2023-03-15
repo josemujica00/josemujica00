@@ -1,4 +1,4 @@
-<img align="center" ![giphy](https://user-images.githubusercontent.com/123973821/225409804-7dfaa0d8-db06-4350-9d47-307ebb6596db.gif)>
+<h2> ![giphy](https://user-images.githubusercontent.com/123973821/225409804-7dfaa0d8-db06-4350-9d47-307ebb6596db.gif)</h2>
 
 <h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
 <h3 align="center">Soy un Frontend apasionado y responsable</h3>
