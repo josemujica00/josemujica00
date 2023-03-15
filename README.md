@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
 <h3 align="center">Soy un Frontend apasionado y responsable</h3>
 
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+
 - 🔭 En la actualidad me encuentro trabajando en la plataforma Workana como desarrollador Frontend independiente - **Freelancer**
 
 - 🌱 Actualmente estoy aprendiendo: **React, Node y Angular**
