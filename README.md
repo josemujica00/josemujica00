@@ -1,4 +1,4 @@
-![giphy](https://user-images.githubusercontent.com/123973821/225409804-7dfaa0d8-db06-4350-9d47-307ebb6596db.gif)
+<img align= "center" ![giphy](https://user-images.githubusercontent.com/123973821/225409804-7dfaa0d8-db06-4350-9d47-307ebb6596db.gif)>
 
 
 <h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
