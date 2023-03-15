@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0"/>
 
 <h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
 <h3 align="center">Soy un Frontend apasionado y responsable</h3>
