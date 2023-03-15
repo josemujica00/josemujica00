@@ -11,9 +11,9 @@
 
 - 📫 Como puedes contactarme? **josemujicanaranjo020895@gmail.com**
 
-<h3 align="left">Contactame en:</h3>
+<h3 align="left">También puedes encontrarme en:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/josé angel mujica naranjo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé angel mujica naranjo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jose-angel-mujica-naranjo-38321a17b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé angel mujica naranjo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
