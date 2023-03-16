@@ -38,6 +38,12 @@
 
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a></p>
 
+<h2 align="center">Idiomas</h2>
+
+<img width="30" height="30" src="https://user-images.githubusercontent.com/123973821/225727373-0058722c-5be4-44d5-83b6-caa7f8127a0f.png"/> Español: Nativo
+
+<img width="30" height="30" src="https://user-images.githubusercontent.com/123973821/225678821-bdfe8647-cf76-46a6-9dcd-c03b30d1011d.png"/> Ingles: Intermedio
+
 <h2 align="center">Mi LinkedIn 👦🏼🔎</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/jose-angel-mujica-naranjo-38321a17b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="josé angel mujica naranjo" height="30" width="40" /></a>
