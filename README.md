@@ -28,7 +28,7 @@
 ✔ Como puedes contactarme? **josemujicanaranjo020895@gmail.com** 📫📧
 </p>
 
-<h2 align="center">Habilidades🏼‍ ⚡</h2>
+<h2 align="center">Habilidades ⚡</h2>
 
 <h3>Lenguajes de Programación 👨🏼‍💻:</h3>
 
