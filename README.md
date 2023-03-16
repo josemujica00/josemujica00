@@ -12,25 +12,25 @@
 
 <p align="justify">
 <img width="320" height="320" align="right" src= "https://user-images.githubusercontent.com/123973821/225428640-704c8498-f491-43a3-ac96-87fca125d083.gif"/>
-✔Ingeniero electrónico con mención en automatización y control industrial 💡👷
+✔Ingeniero electrónico con mención en automatización y control industrial 💡👷🏼‍♂️
 
 ✔ Conocimientos en diseño web, mejora de performance, mantenimiento web, creación de apps e implementación de nuevas herramientas, estilos y 
   características a una página web ⚙🔧
     
 ✔ En el momento actual me encuentro trabajando en la plataforma Workana.com como desarrollador Frontend independiente - Freelancer 💻📱
     
-✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨‍🏫
+✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨🏼‍🏫
 
-✔ Todos mis proyectos estan disponibles en: [josemujica00.com](josemujica00.com) 👨‍💻
+✔ Todos mis proyectos estan disponibles en: [josemujica00.com](josemujica00.com) 💻
 
 ✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, WordPress, Elementor y WooCommerce** 💬
 
 ✔ Como puedes contactarme? **josemujicanaranjo020895@gmail.com** 📫📧
 </p>
 
-<h2 align="center">Habilidades</h2>
+<h2 align="center">Habilidades🏼‍ ⚡</h2>
 
-<h3>Lenguajes de Programación:</h3>
+<h3>Lenguajes de Programación 👨🏼‍💻:</h3>
 
 <p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> </p>
 
