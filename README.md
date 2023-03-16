@@ -1,22 +1,25 @@
-<img src="https://user-images.githubusercontent.com/123973821/225440600-688dda00-c3c9-4767-930f-37fdc767ed85.jpg"/>
-
-
-<h1 align="center">Hola 👋, mi nombre es José Angel Mujica Naranjo</h1>
-<h2 align="center">Soy un Frontend apasionado y responsable</h2>
+<h1 align="center">Hola y bienvenido al perfil de José A. Mujica N. 👋</h1>
 
 <p align="center">
-  <img src= "https://user-images.githubusercontent.com/123973821/225428640-704c8498-f491-43a3-ac96-87fca125d083.gif"/>
+  <img width="800" height="400" src="https://user-images.githubusercontent.com/123973821/225440600-688dda00-c3c9-4767-930f-37fdc767ed85.jpg"/>
 </p>
 
-- 🔭 En la actualidad me encuentro trabajando en la plataforma **Workana** como desarrollador Frontend independiente - **Freelancer**
+<h2 align="center">Soy un desarrollador Frontend apasionado, responsable,
+  amante de la programación y la tecnología</span></h2>
 
-- 🌱 Actualmente estoy aprendiendo: **React, Node y Angular**
+<p align="center">
+  <img width="600" height="400" src= "https://user-images.githubusercontent.com/123973821/225428640-704c8498-f491-43a3-ac96-87fca125d083.gif"/>
+</p>
 
-- 👨‍💻 Todos mis proyectos estan disponibles en: [josemujica00.com](josemujica00.com)
+✔ En la actualidad me encuentro trabajando en la plataforma **Workana** como desarrollador Frontend independiente - **Freelancer** 💻📱
 
-- 💬 Puedes preguntarme sobre: **HTML, CSS, JavaScript, Wordpress, Elementor y WooCommerce**
+✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨‍🏫
 
-- 📫 Como puedes contactarme? **josemujicanaranjo020895@gmail.com**
+✔ Todos mis proyectos estan disponibles en: [josemujica00.com](josemujica00.com) 👨‍💻
+
+✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, Wordpress, Elementor y WooCommerce** 💬
+
+✔ Como puedes contactarme? **josemujicanaranjo020895@gmail.com** 📫📧
 
 <h3 align="left">También puedes encontrarme en:</h3>
 <p align="left">
