@@ -17,7 +17,7 @@
 ✔ Conocimientos en diseño web, mejora de performance, mantenimiento web, creación de apps e implementación de nuevas herramientas, estilos y 
   características a una página web ⚙🔧
     
-✔ En el momento actual me encuentro trabajando en la plataforma Workana.com como desarrollador Frontend independiente - Freelancer 💻📱
+✔ En el momento actual me encuentro trabajando en la plataforma **Workana.com como desarrollador Frontend independiente - Freelancer** 💻📱
     
 ✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨🏼‍🏫
 
