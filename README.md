@@ -12,7 +12,7 @@
 
 <p align="justify">
 <img width="320" height="320" align="right" src= "https://user-images.githubusercontent.com/123973821/225428640-704c8498-f491-43a3-ac96-87fca125d083.gif"/>
-✔**Ingeniero electrónico** con mención en automatización y control industrial 💡👷🏼‍♂️
+✔ **Ingeniero electrónico** con mención en automatización y control industrial 💡👷🏼‍♂️
 
 ✔ Conocimientos en diseño web, mejora de performance, mantenimiento web, creación de apps e implementación de nuevas herramientas, estilos y 
   características a una página web ⚙🔧
