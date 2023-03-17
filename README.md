@@ -21,7 +21,7 @@
     
 ✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨🏼‍🏫
 
-✔ Todos mis proyectos estan disponibles en: [josemujica00.com](josemujica00.com) 💻
+✔ Todos mis proyectos estan disponibles en: **https://josemujica00.github.io/mi-portafolio/** 💻
 
 ✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, WordPress, Elementor y WooCommerce** 💬
 
