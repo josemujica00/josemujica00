@@ -21,7 +21,7 @@
     
 ✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨🏼‍🏫
 
-✔ Todos mis proyectos estan disponibles en: **https://josemujica00.github.io/mi-portafolio/** 💻
+✔ Todos mis proyectos estan disponibles en: **https://portafoliojosemujica.netlify.app/** 💻
 
 ✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, WordPress, Elementor y WooCommerce** 💬
 
@@ -33,16 +33,25 @@
 
 
 <h2 align="center">Habilidades ⚡</h2>
-
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> </a> </p>
-
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a></p>
+<p align="center">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/23ffe9af-2758-4110-a742-c8f858492de8">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/01415e2d-6095-4ef4-8a3d-391d763ade8f">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/37c0e326-8904-4340-9361-411bff1cafcb">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/98e48764-bedf-46cc-86e4-4bff53e00360">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/94e7def1-46f5-43ec-a7c6-a74311495f9e">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/2e7b8965-b656-41f2-8299-a3c976bd0132">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/23bded3c-bda1-4cb0-b324-db4edad18b8e">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/e26f884e-9f35-4480-9430-f5621ae7c97c">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/cdc2a462-4960-4c5d-99a1-d839ee65fca4">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/d76edac9-3ced-44b9-a74c-c8e954371a66">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/17f93c59-de9d-49aa-a713-840fab0e612a">
+</p>
 
   
   
 <h2 align="center">Idiomas</h2>
-<img width="30" height="30" src="https://user-images.githubusercontent.com/123973821/225727373-0058722c-5be4-44d5-83b6-caa7f8127a0f.png" alt="español"/> Español: Nativo
-<img width="30" height="30" src="https://user-images.githubusercontent.com/123973821/225678821-bdfe8647-cf76-46a6-9dcd-c03b30d1011d.png" alt="ingles"/> Ingles: Intermedio
+<p><img width="30" height="30" src="https://user-images.githubusercontent.com/123973821/225727373-0058722c-5be4-44d5-83b6-caa7f8127a0f.png" alt="español"/> Español: Nativo</p>
+<p><img width="30" height="30" src="https://user-images.githubusercontent.com/123973821/225678821-bdfe8647-cf76-46a6-9dcd-c03b30d1011d.png" alt="ingles"/> Ingles: Intermedio</p>
 
 
 
