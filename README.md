@@ -23,7 +23,7 @@
 
 ✔ Todos mis proyectos estan disponibles en: **https://portafoliojosemujica.netlify.app/** 💻
 
-✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, WordPress, Elementor y WooCommerce** 💬
+✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, SASS, Gulp, WordPress, Elementor y WooCommerce** 💬
 
 ✔ Como puedes contactarme? **josemujicanaranjo020895@gmail.com** 📫📧
 </p>
