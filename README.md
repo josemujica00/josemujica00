@@ -6,7 +6,7 @@
 
 
 <h2 align="center">Mi Resumen 📝</h2>
-<p align="justify">Soy un desarrollador Frontend apasionado, responsable, amante de la programación y la tecnología, con estudios avanzados y certificaciones en programación web desde HTML5, CSS3, SASS, Gulp y JavaScript, adicionalmente manejo web desde CMS con conocimientos en sistemas de gestión como WordPress y plugins como Elementor y WooCommerce.</p>
+<p align="justify">Soy un desarrollador Frontend apasionado, responsable, amante de la programación y la tecnología, con estudios avanzados y certificaciones en programación web desde HTML5, CSS3, SASS, Gulp y JavaScript, adicionalmente manejo web desde CMS con sistemas de gestión como WordPress y plugins como Elementor y WooCommerce.</p>
 
 
 
