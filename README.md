@@ -6,7 +6,7 @@
 
 
 <h2 align="center">Mi Resumen 📝</h2>
-<p align="justify">Soy un desarrollador Frontend apasionado, responsable, amante de la programación y la tecnología, con estudios avanzados y certificaciones en programación web desde HTML5, CSS3, SASS, Gulp y JavaScript, adicionalmente manejo web desde CMS con sistemas de gestión como WordPress y plugins como Elementor y WooCommerce.</p>
+<p align="justify">Soy un desarrollador Frontend apasionado, responsable, amante de la programación y la tecnología, con estudios avanzados y certificaciones en programación web desde HTML5, CSS3, SASS, Gulp, JavaScript y React, adicionalmente manejo web desde CMS con sistemas de gestión como WordPress y plugins como Elementor y WooCommerce.</p>
 
 
 
@@ -19,11 +19,11 @@
     
 ✔ En el momento actual me encuentro trabajando en la plataforma **Workana.com como desarrollador Frontend independiente - Freelancer** 💻📱
     
-✔ Actualmente estoy aprendiendo: **React, Node y Angular** 📚👨🏼‍🏫
+✔ Actualmente estoy aprendiendo: **Node y Angular** 📚👨🏼‍🏫
 
 ✔ Todos mis proyectos estan disponibles en: **https://portafoliojosemujica.netlify.app/** 💻
 
-✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, SASS, Gulp, WordPress, Elementor y WooCommerce** 💬
+✔ Puedes preguntarme sobre: **HTML, CSS, JavaScript, React, SASS, Gulp, WordPress, Elementor y WooCommerce** 💬
 
 ✔ Como puedes contactarme? **josemujicanaranjo020895@gmail.com** 📫📧
 </p>
@@ -34,9 +34,10 @@
 
 <h2 align="center">Habilidades ⚡</h2>
 <p align="center">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/7c25111f-22c6-4d2e-a7f9-70bb739bf136">
+  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/37c0e326-8904-4340-9361-411bff1cafcb">
   <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/23ffe9af-2758-4110-a742-c8f858492de8">
   <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/01415e2d-6095-4ef4-8a3d-391d763ade8f">
-  <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/37c0e326-8904-4340-9361-411bff1cafcb">
   <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/98e48764-bedf-46cc-86e4-4bff53e00360">
   <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/94e7def1-46f5-43ec-a7c6-a74311495f9e">
   <img width="60" height="60" src="https://github.com/josemujica00/josemujica00/assets/123973821/2e7b8965-b656-41f2-8299-a3c976bd0132">
